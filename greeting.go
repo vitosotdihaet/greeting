@@ -8,6 +8,6 @@ func greet(name string) string {
 }
 
 func farewell(name string) string {
-	msg := fmt.Sprintf("Goodbye, %v!", name)
+	var msg string = fmt.Sprintf("Goodbye, %v!", name)
 	return msg
 }
