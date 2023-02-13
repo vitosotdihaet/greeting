@@ -1,3 +1,3 @@
-module github.com/vitosotdihaet/go-greeting-test
+module github.com/vitosotdihaet/greeting
 
 go 1.20
